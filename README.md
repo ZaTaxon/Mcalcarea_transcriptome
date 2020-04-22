@@ -7,11 +7,13 @@ Abstract: Infaunal bivalves are important components of marine soft-bottom ecosy
 This repository contains the following files and scripts:
 
 Files:
+
  -- protein fastas for all assembled and analysed species
  -- transcriptome raw assembly of M.calcarea and it functional annotation
  -- output file Protheinorteo with all detected ortogroups across analysed species
  
  Scripts:
+ 
  -- parallel amino acid substitutions detection
  Usage: 
  
