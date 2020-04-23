@@ -6,7 +6,9 @@ Abstract: Infaunal bivalves are important components of marine soft-bottom ecosy
 
 This repository contains the following files and scripts:
 
+
 Files and folders:
+
 
 **Data** folder consist of protein fasta files for *Macoma calcarea* and four bivalve reassembled transcriptomes used in the analysis of orthologuous genes.
 
@@ -14,7 +16,9 @@ Files and folders:
 
 **supplementary** - supplementary tables 2 & 3 for the paper in Marine Genomics except for functional annotation
 
+
 Scripts:
+
 
 **clams_proteinorto.R** - R script used for the gene family expansion and contraction analysis
 
